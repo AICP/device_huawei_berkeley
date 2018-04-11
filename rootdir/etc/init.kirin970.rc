@@ -18,4 +18,4 @@ on property:sys.fpnav.enabled=1
     start fps_hal_ext
 
 on property:ro.aicp.device=*
-    setprop qemu.hw.mainkeys 1
+    setprop qemu.hw.mainkeys 0

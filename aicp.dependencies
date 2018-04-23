@@ -8,10 +8,5 @@
    "repository":  "berkeley-dev/proprietary_vendor_huawei_berkeley",
    "target_path": "vendor/huawei/berkeley",
    "branch":      "master"
- },
- {
-   "repository":  "MindTheGapps/vendor_gapps",
-   "target_path": "vendor/gapps",
-   "branch":      "master"
  }
 ]

@@ -208,4 +208,7 @@
          For example, a device with Home, Back and Menu keys would set this
          config to 7. -->
     <integer name="config_deviceHardwareKeys">64</integer>
+
+    <!-- Wheter to enable doze always on -->
+    <bool name="config_enableDozeAlwaysOn">true</bool>
 </resources>

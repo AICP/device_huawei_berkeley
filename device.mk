@@ -68,6 +68,15 @@ PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     ro.build.version.sdk=$(PLATFORM_SDK_VERSION) \
     ro.cust.cdrom=/dev/null
 
+# Vendor Properties Overrides
+PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
+    ro.vendor.override.security_patch=$(PLATFORM_SECURITY_PATCH) \
+    ro.vendor.override.build_display=$(BUILD_ID)
+
+# Radio
+PRODUCT_PACKAGES += \
+    qti-telephony-common
+
 # Recovery
 PRODUCT_PACKAGES += \
     resize2fs_static

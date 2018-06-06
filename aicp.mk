@@ -26,5 +26,5 @@ PRODUCT_MODEL := Honor View 10
 
 # AICP Device Maintainers
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    DEVICE_MAINTAINERS="Darragh McGee (DarkExistence)"
+    DEVICE_MAINTAINERS="Moshe Barash (mosimchah)"
 

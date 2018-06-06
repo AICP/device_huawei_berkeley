@@ -1,0 +1,10 @@
+# We cant wait for all the patches to be merged
+# so we pull the patches from gerrit.
+#
+62321 http://gerrit.aicp-rom.com frameworks/native
+65537 http://gerrit.aicp-rom.com system/sepolicy
+68330 http://gerrit.aicp-rom.com system/sepolicy
+62329 http://gerrit.aicp-rom.com frameworks/base
+6499 https://review.carbonrom.org external/selinux
+212625 https://review.lineageos.org packages/apps/Camera2 -f
+214316 https://review.lineageos.org frameworks/opt/telephony

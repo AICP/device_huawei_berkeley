@@ -1,0 +1,20 @@
+# We cant wait for all the patches to be merged
+# so we pull the patches from gerrit.
+#
+77825 http://gerrit.aicp-rom.com frameworks/base
+80780 http://gerrit.aicp-rom.com frameworks/base
+80783 http://gerrit.aicp-rom.com frameworks/base
+77813 http://gerrit.aicp-rom.com frameworks/native
+77816 http://gerrit.aicp-rom.com frameworks/native
+77819 http://gerrit.aicp-rom.com frameworks/native
+77822 http://gerrit.aicp-rom.com frameworks/native
+80612 http://gerrit.aicp-rom.com frameworks/opt/telephony
+80615 http://gerrit.aicp-rom.com frameworks/opt/telephony
+80618 http://gerrit.aicp-rom.com frameworks/opt/telephony
+80921 http://gerrit.aicp-rom.com frameworks/opt/telephony
+80621 http://gerrit.aicp-rom.com frameworks/opt/telephony
+80786 http://gerrit.aicp-rom.com packages/apps/Settings
+80789 http://gerrit.aicp-rom.com packages/apps/Settings
+77807 http://gerrit.aicp-rom.com packages/services/Telephony
+77810 http://gerrit.aicp-rom.com packages/services/Telephony
+80609 http://gerrit.aicp-rom.com system/sepolicy

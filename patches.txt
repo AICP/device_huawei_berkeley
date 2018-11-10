@@ -1,9 +1,17 @@
 # We cant wait for all the patches to be merged
 # so we pull the patches from gerrit.
 #
-62321 http://gerrit.aicp-rom.com frameworks/native
-65537 http://gerrit.aicp-rom.com system/sepolicy
-68330 http://gerrit.aicp-rom.com system/sepolicy
-6499 https://review.carbonrom.org external/selinux
-212625 https://review.lineageos.org packages/apps/Camera2 -f
-214316 https://review.lineageos.org frameworks/opt/telephony
+77825 http://gerrit.aicp-rom.com frameworks/base
+77813 http://gerrit.aicp-rom.com frameworks/native
+77816 http://gerrit.aicp-rom.com frameworks/native
+77819 http://gerrit.aicp-rom.com frameworks/native
+77822 http://gerrit.aicp-rom.com frameworks/native
+77807 http://gerrit.aicp-rom.com packages/services/Telephony
+77810 http://gerrit.aicp-rom.com packages/services/Telephony
+5849 https://review.aosiprom.com system/sepolicy
+5840 https://review.aosiprom.com frameworks/opt/telephony
+5841 https://review.aosiprom.com frameworks/opt/telephony
+5842 https://review.aosiprom.com frameworks/opt/telephony
+5843 https://review.aosiprom.com frameworks/opt/telephony
+5844 https://review.aosiprom.com frameworks/opt/telephony
+

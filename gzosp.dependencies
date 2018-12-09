@@ -7,6 +7,12 @@
   },
   {
     "remote": "github",
+    "repository": "berkeley-pie/android_packages_apps_HuaweiParts",
+    "target_path": "packages/apps/HuaweiParts",
+    "branch": "pie"
+  },
+  {
+    "remote": "github",
     "repository": "berkeley-pie/proprietary_vendor_huawei_kirin970-common",
     "target_path": "vendor/huawei/kirin970-common",
     "branch": "pie"

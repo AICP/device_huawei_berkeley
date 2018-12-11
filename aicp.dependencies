@@ -1,0 +1,10 @@
+[
+ {
+   "repository":  "device_huawei_kirin970-common",
+   "target_path": "device/huawei/kirin970-common"
+ },
+ {
+   "repository":  "proprietary_vendor_huawei",
+   "target_path": "vendor/huawei"
+ }
+]

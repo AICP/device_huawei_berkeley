@@ -30,6 +30,9 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/treble_common.mk)
 # Inherit from berkeley device
 $(call inherit-product, device/huawei/berkeley/device.mk)
 
+# Inherit from custom vendor
+$(call inherit-product, vendor/huawei/HwCamera2/config.mk)
+
 # Inherit some common GZOSP stuff.
 $(call inherit-product, vendor/gzosp/config/common_full_phone.mk)
 

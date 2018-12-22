@@ -7,8 +7,14 @@
   },
   {
     "remote": "github",
-    "repository": "berkeley-pie/proprietary_vendor_huawei_kirin970-common",
+    "repository": "BigTopKrazies/proprietary_vendor_huawei_kirin970-common",
     "target_path": "vendor/huawei/kirin970-common",
-    "branch": "pie"
+    "branch": "9.0"
+  },
+  {
+    "remote": "github",
+    "repository": "BigTopKrazies/android_vendor_huawei_HwCamera2",
+    "target_path": "vendor/huawei/HwCamera2",
+    "branch": "9.0"
   }
 ]
